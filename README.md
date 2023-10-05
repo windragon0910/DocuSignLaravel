@@ -1,10 +1,10 @@
 # Laravel Docusign
-A Laravel wrapper for the [Docusign Rest Client](https://github.com/Tucker-Eric/docusign-rest-client)
+A Laravel wrapper for the [Docusign Rest Client](https://github.com/windragon0910/docusign-rest-client)
 
 ### Install Through Composer
 
 ```
-composer require tucker-eric/laravel-docusign
+composer require windragon0910/laravel-docusign
 ```
 
 If you are using Laravel 6 or a newer version the package will automatically register its service provider. You only need to generate the config file.
@@ -33,7 +33,7 @@ DOCUSIGN_INTEGRATOR_KEY=[YOUR_DOCUSIGN_INTEGRATOR_KEY]
 ```
 
 ## Usage
-For usage see the [Docusign Rest Client](https://github.com/Tucker-Eric/docusign-rest-client)
+For usage see the [Docusign Rest Client](https://github.com/windragon0910/docusign-rest-client)
 
 ### Using the Facade
 You can create a new instance of the DocuSign Client with:
